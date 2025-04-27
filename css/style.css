@@ -4,6 +4,19 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap');
+
+.luxurious-roman-regular {
+  font-family: "Luxurious Roman", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+</style>
+
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
